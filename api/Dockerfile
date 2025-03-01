@@ -1,4 +1,4 @@
-FROM gradle:7 AS base
+FROM gradle:8.5 AS base
 CMD ["bash"]
 
 # test-and-build
